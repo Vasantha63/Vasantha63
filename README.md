@@ -114,7 +114,7 @@ Kubernetes, Prometheus, AWS EC2, Nginx
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasantha-veeramusti-6a405032b/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vasanthaagulla77@gmail.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vasantha_agulla)
 
 
 > 💡 *"I don't just know the tools — I've actually used them!"*
