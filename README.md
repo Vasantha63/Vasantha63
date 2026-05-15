@@ -1,22 +1,55 @@
-# Hi, I'm Vasantha Veeramusti 👋
+I am Vasantha Veeramusti, a fresher DevOps Engineer
+specializing in building production-grade CI/CD pipelines
+and deploying cloud-native microservices on AWS.
 
-🚀 **DevOps Engineer** | AWS | Docker | Kubernetes | Terraform | CI/CD
+Hands-on experience in containerization with Docker,
+container orchestration with Kubernetes (K3s),
+infrastructure automation with Terraform, and
+real-time monitoring with Prometheus & Grafana.
 
-📍 Hyderabad, India | Open to DevOps Opportunities
+🔧 DevOps Stack:
+Linux | Git & GitHub | Docker | Kubernetes |
+Terraform | Jenkins | GitHub Actions |
+Prometheus | Grafana | AWS (EC2, ECR, VPC, IAM)
+
+💻 Programming:
+Python | FastAPI | Flask | Bash | YAML
+
+☁️ Cloud:
+AWS — EC2, ECR, VPC, IAM, Security Groups
+
+🚀 What I Built:
+→ Auth/SSO microservice with JWT, Docker, K8s,
+Terraform, Prometheus, Grafana, GitHub Actions
+→ Personal Financial Tracker with Jenkins CI/CD,
+Kubernetes, Prometheus, AWS EC2, Nginx
+
+📍 Hyderabad | Open to DevOps & Cloud roles
 
 ---
 
 ## 🔧 Tech Stack
 
 **DevOps & Cloud:**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 
 **Programming:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
