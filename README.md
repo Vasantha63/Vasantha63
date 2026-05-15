@@ -1,18 +1,84 @@
-# 💫 About Me:
-I am Vasantha Veeramusti, a fresher DevOps Engineer <br>specializing in building production-grade CI/CD pipelines <br>and deploying cloud-native microservices on AWS.<br><br>Hands-on experience in containerization with Docker, <br>container orchestration with Kubernetes (K3s), <br>infrastructure automation with Terraform, and <br>real-time monitoring with Prometheus & Grafana.<br><br>🔧 DevOps Stack:<br>Linux | Git & GitHub | Docker | Kubernetes | <br>Terraform | Jenkins | GitHub Actions | <br>Prometheus | Grafana | AWS (EC2, ECR, VPC, IAM)<br><br>💻 Programming:<br>Python | FastAPI | Flask | Bash | YAML<br><br>☁️ Cloud:<br>AWS — EC2, ECR, VPC, IAM, Security Groups<br><br>🚀 What I Built:<br>→ Auth/SSO microservice with JWT, Docker, K8s, <br>  Terraform, Prometheus, Grafana, GitHub Actions<br>→ Personal Financial Tracker with Jenkins CI/CD, <br>  Kubernetes, Prometheus, AWS EC2, Nginx<br><br>📍 Hyderabad | Open to DevOps & Cloud roles
+# Hi, I'm Vasantha Veeramusti 👋
 
+🚀 **DevOps Engineer** | AWS | Docker | Kubernetes | Terraform | CI/CD
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vasantha_agulla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vasantha-veeramusti-6a405032b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vasanthaagulla77@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Vasantha63&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Vasantha63&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vasantha63&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📍 Hyderabad, India | Open to DevOps Opportunities
 
 ---
-[![](https://komarev.com/ghpvc/?username=Vasantha63&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔧 Tech Stack
+
+**DevOps & Cloud:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+**Programming:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Projects
+
+### 🔐 Auth/SSO Service — Enterprise DevOps Pipeline
+> FastAPI microservice with complete DevOps pipeline
+
+- JWT Authentication API with FastAPI
+- Docker + AWS ECR (Mumbai region)
+- Terraform IaC — EC2, VPC, Subnet, Security Groups
+- Kubernetes (K3s) deployment
+- Prometheus + Grafana monitoring dashboard
+- GitHub Actions CI/CD pipeline
+
+**Stack:** `FastAPI` `Docker` `Terraform` `AWS ECR` `K3s` `Prometheus` `Grafana` `GitHub Actions`
+
+🔗 [GitHub](https://github.com/Vasantha63/auth-sso-service)
+
+---
+
+### 💰 Personal Financial Tracker — DevOps Pipeline
+> Full-stack Flask app with complete CI/CD
+
+- Python Flask + SQLite web application
+- Multi-stage Dockerfile
+- Jenkins CI/CD Pipeline (6 stages)
+- Kubernetes deployment with auto-scaling
+- Prometheus + Grafana monitoring
+- AWS EC2 deployment with Nginx
+
+**Stack:** `Flask` `Docker` `Jenkins` `Kubernetes` `AWS EC2` `Prometheus` `Grafana`
+
+🔗 [GitHub](https://github.com/Vasantha63/personal-financial-tracker)
+
+---
+
+## 📜 Certifications
+
+- ☁️ AWS SimuLearn: Cloud Practitioner
+- 🔧 Advanced Testing Practices Using AWS DevOps Tools
+- 🌐 Cisco Networking Basics
+- 📊 Deloitte Data Analytics Job Simulation
+- 💻 Deloitte Technology Job Simulation
+- 🔍 EY Technology Risk Virtual Job Simulation
+
+---
+
+## 📊 GitHub Stats
+
+![Vasantha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vasantha63&show_icons=true&theme=dark)
+
+---
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vasantha-veeramusti)
+
+> 💡 *"I don't just know the tools — I've actually used them!"*
